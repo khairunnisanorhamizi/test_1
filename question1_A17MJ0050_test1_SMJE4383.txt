@@ -1,0 +1,17 @@
+﻿Name: Khairun Nisa Binti Nor Hamizi
+Section: 1
+SMJE 4383 – ADVANCED PROGRAMMING
+Lab Test 1
+
+Question 1
+
+I. Assignment statement is = sign
+	Example: a_int, b_int = 2, 3
+
+ii. 
+Interpreted Language: Source code is not directly translated by the target machine
+Compiled Language: Source code is directly translated by the target machine
+
+
+
+
